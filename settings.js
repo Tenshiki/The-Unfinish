@@ -1,5 +1,5 @@
 const settings = {
-  packname: 'The unfinishedt',
+  packname: 'The Unfinished',
   author: 'SCXR',
   botName: "The Unfinished",
   botOwner: 'The Unfinished', // Your name
